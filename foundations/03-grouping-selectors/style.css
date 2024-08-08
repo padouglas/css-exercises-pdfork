@@ -1,0 +1,16 @@
+.clickMeButton, .noClickMeButton {
+    border-top: solid #545454 2px;
+    border-left: solid #545454 2px;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    font-size: 24px;
+}
+
+.clickMeButton {
+    background-color: black;
+    color: white;
+}
+
+.noClickMeButton {
+    background-color: yellow;
+}
